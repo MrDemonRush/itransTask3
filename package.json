@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "crypto": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "random-number-csprng": "^1.0.2"
+  }
+}
